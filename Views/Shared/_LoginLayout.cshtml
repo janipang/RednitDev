@@ -1,25 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewBag.Title - RednitDev</title>
     <link rel="stylesheet" href="~/css/LoginCSS.css">
 </head>
-
 <body>
-    <nav>
-        <div class = "leftSide">
-            <img class = "Icons" src = "" alt = "Logo">
-            <a class="Home" asp-area="" asp-controller="Home" asp-action="Index">Rednit</a>
-        </div>
-        <div class = "rightSide">
-            <a class="discovery" asp-area="" asp-controller="Home" asp-action="Index">discovery</a>
-            <a class="login" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
-
-        </div>
-    </nav>
     <div class="container">
         @RenderBody()
     </div>
@@ -28,5 +15,4 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
-
 </html>

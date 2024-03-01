@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\RednitDev.bundle.scp.css"
     },
     {
+      "Id": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\background\\homebgc.png",
+      "PackagePath": "staticwebassets\\background\\homebgc.png"
+    },
+    {
       "Id": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\background\\wave1.png",
       "PackagePath": "staticwebassets\\background\\wave1.png"
     },
@@ -307,6 +311,10 @@
     {
       "Id": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\svg\\mailwhite.svg",
       "PackagePath": "staticwebassets\\svg\\mailwhite.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\svg\\timegrey.svg",
+      "PackagePath": "staticwebassets\\svg\\timegrey.svg"
     },
     {
       "Id": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\svg\\youtubewhite.svg",

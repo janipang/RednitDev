@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sOFof9ZtNMhPirt4O8jrO7H2UFjHFdEpVnzWGKTheKE=",
+  "Hash": "jVgYKSowyO/y6LikDS7m1wzdhPhEV+S1opytngEn9tE=",
   "Source": "RednitDev",
   "BasePath": "_content/RednitDev",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RednitDev.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\background\\homebgc.png",
+      "SourceId": "RednitDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\",
+      "BasePath": "_content/RednitDev",
+      "RelativePath": "background/homebgc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background\\homebgc.png"
     },
     {
       "Identity": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\background\\wave1mirror.png",
@@ -1341,6 +1358,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\svg\\mailwhite.svg"
+    },
+    {
+      "Identity": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\svg\\timegrey.svg",
+      "SourceId": "RednitDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\",
+      "BasePath": "_content/RednitDev",
+      "RelativePath": "svg/timegrey.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\svg\\timegrey.svg"
     },
     {
       "Identity": "D:\\Documents\\Study\\TERM4\\miniweb\\RednitDev\\wwwroot\\svg\\youtubewhite.svg",
